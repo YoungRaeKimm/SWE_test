@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main(){
-int i=0;
-for(i=0;i<10;i++)
-  printf("%d\n", i);
+  printf("<h1>Hello, Hongik!</h1>\n");
   
   return 0;
  }
